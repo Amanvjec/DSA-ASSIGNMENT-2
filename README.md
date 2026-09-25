@@ -1,5 +1,5 @@
-# DSA Assignment 1: Max Heap & Linear Search Analysis (Question 3)
-
+# DSA Assignment 2: Max Heap & Linear Search Analysis (Question 3)
+VML25CEBS005
 ## Student Information
 * **Course:** Data Structures & Algorithms Lab
 * **Assignment Question:** Question 3 (Max Heap vs Linear Search)
