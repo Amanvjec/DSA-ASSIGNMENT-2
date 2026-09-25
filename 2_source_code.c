@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 #define MAX_SIZE 100
 
 void swap(int *a, int *b) {
